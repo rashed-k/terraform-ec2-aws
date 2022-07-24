@@ -1,0 +1,1 @@
+Basic Terraform file to provision ec2 instance 
